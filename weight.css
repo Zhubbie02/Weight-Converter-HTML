@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(38, 50, 56);  
+    justify-items: center;
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+h1 {
+    text-align: center;
+    color: rgb(236, 240, 241);
+}
+input {
+    background-color: rgb(236, 239, 241);
+    border-radius: 18px;
+    height: 4.5rem;
+    width: 100%;
+    text-align: justify;
+    font-size:xx-large;
+    border: 0.5px black solid;
+}
+.kgOutput {
+    display: block;
+    border: 1px black solid;
+    margin-top: 20px;
+    background-color: rgb(207, 216, 220);
+    height: 3.5rem;
+    text-align:left;
+    font-size:xx-large;
+    padding-top: 15px;
+    border-radius: 18px;
+}
+.lbsOutput {
+    display: block;
+    border: 1px black solid;
+    margin-top: 10px;
+    background-color: rgb(176, 190, 197);
+    height: 3.5rem;
+    text-align: justify;
+    font-size:xx-large;
+    padding-top: 15px;
+    border-radius: 15px;
+}
+.ozOutput {
+    display: block;
+    border: 1px black solid;
+    margin-top: 10px;
+    height: 3.5rem;
+    text-align: justify;
+    padding-top: 15px;
+    font-size:xx-large;
+    background-color:rgb(144, 164, 174);
+    border-radius: 15px;
+}
+h4{
+    display: inline;
+}
+#kg, #lbs, #oz{
+    display: inline;
+}
